@@ -1,0 +1,15 @@
+                 precision    recall  f1-score   support
+
+        crazing     1.0000    1.0000    1.0000        45
+      inclusion     0.8036    1.0000    0.8911        45
+        patches     1.0000    1.0000    1.0000        45
+ pitted_surface     1.0000    0.9111    0.9535        45
+rolled-in_scale     1.0000    1.0000    1.0000        45
+      scratches     1.0000    0.8444    0.9157        45
+
+       accuracy                         0.9593       270
+      macro avg     0.9673    0.9593    0.9600       270
+   weighted avg     0.9673    0.9593    0.9600       270
+
+Test Accuracy: 95.93%
+Test Loss: 0.1704
